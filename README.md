@@ -24,7 +24,8 @@ Este projeto permite selecionar uma pasta de entrada com arquivos `.pdf` e uma p
 
 ## 🖼️ Layout
 
-![screenshot](https://via.placeholder.com/600x300.png?text=PDF+Converter+MVC)
+![screenshot](https://github.com/vasconceloseverton/pdf_converter/blob/main/TELA1.png)
+![screenshot](https://github.com/vasconceloseverton/pdf_converter/blob/main/TELA2.png)
 
 ---
 
